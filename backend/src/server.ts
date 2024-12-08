@@ -11,6 +11,7 @@ app.use(express.json());
 
 app.use(cors({ origin: "http://localhost:5173" }));
 
+
 const monthMapping: { [key: string]: number } = {
   january: 1,
   february: 2,
