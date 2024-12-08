@@ -10,6 +10,6 @@ step5 : To enter the seed data in the database send a request on ( http://localh
 FRONTEND STARTUP
 step6 : cd frontend and ( npm install ) in frontend folder
 step6 : create .env file in frontend and put ( VITE_BASE_URL=http://localhost:3000/ )
-step7 : run npm dev
+step7 : run ( npm run dev )
 
 step8 : Check all the functionalities that were mentioned in the assignment, if found any bug or malfunctioning then please return the feedback.
